@@ -35,6 +35,11 @@ A fun React-based dice game where players guess the dice number. If your guess i
 
 ---
 
+## 🔗 Live Demo
+
+[Click here to play!](react-dice-game-lime.vercel.app)
+
+---
 ## 🧑‍💻 Tech Stack
 
 - React.js (Vite or CRA)
